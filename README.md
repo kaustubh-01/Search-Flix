@@ -9,7 +9,6 @@ Search Flix is a movie and series search application built using React.js. The a
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
-- [License](#license)
 
 ## Installation
 
