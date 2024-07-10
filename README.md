@@ -61,6 +61,3 @@ Search Flix is a movie and series search application built using React.js. The a
 - OMDB API
 - CSS
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
